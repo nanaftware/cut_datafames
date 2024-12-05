@@ -33,6 +33,6 @@ Automated pipelines: Can be integrated into automated processing pipelines to sp
 
 Customized export: The flexibility of output formats (CSV, JSON, Parquet, Excel) allows adapting to different tools and requirements.
 
-.........................................................................................................................................................
+................................................................................................................................................................................................................
 
 This script is valuable for handling large volumes of data, optimizing analysis processes, and splitting datasets based on specific needs, contributing to a more efficient workflow in Data Science projects.
